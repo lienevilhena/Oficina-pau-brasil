@@ -1,4 +1,4 @@
-# Pau Brasil *Paubrasilia echinata*, árvore histórica como estratégia para o Ensino de Ciências Ambientais
+# Pau-brasil *Paubrasilia echinata*, árvore histórica como estratégia para o Ensino de Ciências Ambientais
 
 A crise ambiental vivida atualmente nos revela a importância de manter melhores relações com o ambiente. O desafio da humanidade é a conservação ambiental, são necessárias ações sustentáveis para que haja o equilíbrio ecológico, a exemplo, o plantio de espécies em uma área verde urbana que possui vários objetivos para além de um ambiente arborizado, como a melhoria da qualidade de vida da população.
 
@@ -13,12 +13,22 @@ Dentre as espécies da coleção arbórea está o Paubrasilia echinata, conhecid
 ---
 
 
-## Why 
+## Características do Pau-brasil 
 
-In the realm of design education and research, there's a common emphasis on outcomes—be it presentations, prototypes, or papers. This focus, while essential, tends to sideline the  exploratory and dynamic process leading to these results. The journey to the final projects is marked by twists, turns, and tangents. This is where much of the learning and discovery occurs. 
+Árvore de grande porte com copa arredondada, pode atingir de 10 a 12 metros de altura, nos tempos de colonização foram registradas espécies com 30 metros, folhas verde-brilhantes, flores em cacho amarelo-ouro, madeira pesada com extrato de tinta vermelha. 
 
 
-*Syllabus Site* was conceived as a tool to highlight and document these critical but frequently overlooked aspects of design projects. It serves as a dynamic interface chronicling the voyage through readings, workshops, and discussions.
+Reino: Plantae
+
+Classe: Magnolipsida
+
+Ordem: Faboles
+
+Família: Caesalpiniaceae
+
+Gênero: Paubrasilia
+
+Espécie: _Paubrasilia echinata_
 
 
 This approach not only retains but celebrates the meandering nature of design as an intellectual journey, ensuring that the wealth of inspirations—from historical examples and theoretical frameworks to contemporary projects and research studies—is preserved and made accessible. 
