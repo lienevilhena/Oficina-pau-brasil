@@ -1,12 +1,12 @@
-# Syllabus Site
+# Pau Brasil *Paubrasilia echinata*, árvore histórica como estratégia para o Ensino de Ciências Ambientais
 
-This is an experiment in documenting design courses and a template for rendering Markdown files as one-page websites.
-
-
-Design is all about process, yet we tend to focus on results when documenting design courses. This is an attempt to shift the focus from the latter to the former.
+A crise ambiental vivida atualmente nos revela a importância de manter melhores relações com o ambiente. O desafio da humanidade é a conservação ambiental, são necessárias ações sustentáveis para que haja o equilíbrio ecológico, a exemplo, o plantio de espécies em uma área verde urbana que possui vários objetivos para além de um ambiente arborizado, como a melhoria da qualidade de vida da população.
 
 
-Scroll along to find out  
+Localizado na Região Metropolitana de Belém, o Campus Universitário de Ananindeua da Universidade Federal do Pará no município de Ananindeua, estrada do Icuí, bairro Icuí, possui área total de 10 HA (dez hectares) de vegetação capoeira alta, onde encontra-se uma coleção arbórea, introdução de espécies nativas e exóticas que se adaptam na Amazônia.
+
+
+Dentre as espécies da coleção arbórea está o Paubrasilia echinata, conhecido popularmente como Pau-Brasil, que por ser de alta qualidade foi explorada ao ponto de estar em risco de extinção e atualmente é protegida por lei.  
 [why](#why), [what](#what), [how](#how) & [who](#who).  
 
 
