@@ -16,7 +16,6 @@ Dentre as espécies da coleção arbórea está o _Paubrasilia echinata_, conhec
 
 Árvore de grande porte com copa arredondada, pode atingir de 10 a 12 metros de altura, nos tempos de colonização foram registradas espécies com 30 metros, folhas verde-brilhantes, flores em cacho amarelo-ouro, madeira pesada com extrato de tinta vermelha. 
 
-<img src='IMG_2114.heif'>
 
 Reino: Plantae
 
@@ -36,7 +35,8 @@ Espécie: _Paubrasilia echinata_
 
 ## Histórico do Pau-brasil
 
-<img src="https://ensinarhistoria.com.br/s21/wp-content/uploads/2017/04/tintureiros.jpg" alt="Tintureiros, sec. XVI"/>
+<img src="https://ensinarhistoria.com.br/s21/wp-content/uploads/2017/04/tintureiros.jpg" alt="Tintureiros, sec. XVI"/>![image](https://github.com/user-attachments/assets/bb0f49fd-58c8-4e3b-9384-e8bac07fefa7)
+
 
 Ocorria na região litorânea do Rio de Janeiro ao Rio Grande do Norte, era conhecida pelos indígenas por “ibirapitanga”, pela coloração vermelha dentro do seu tronco.
 
