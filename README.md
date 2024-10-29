@@ -44,10 +44,13 @@ Ocorria na região litorânea do Rio de Janeiro ao Rio Grande do Norte, era conh
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Oraboutan_Thevet_1557_117r.png/162px-Oraboutan_Thevet_1557_117r.png' class='noresize'>
 
 
+
 Com a chegada dos portugueses o pau-brasil foi o primeiro recurso explorado, em 1511 ocorreu a primeira exportação, foram 5 mil toras de madeira levadas da Bahia para Lisboa, na nau Bretoa e desde a colonização do Brasil o pau-brasil foi explorado com vários fins e ganhou importância na comercialização. Em 1581, foi o ápice da ambição pela espécie, 45 navios partem de Pernambuco carregados de madeira.
 
 
+
 Antigamente, em 1785, era pertencente ao gênero Caesalpinia, e à espécie Caesalpinia echinata. Mas, devido ao seu material genético e traços morfológicos diferentes, tornou-se um gênero próprio e foi rebatizada de Paubrasilia echinata.
+
 
 
 Nos últimos 500 anos a madeira era muito valorizada e utilizada em tinturarias de tecidos das realezas. A madeira é considerada incorruptível, não apodrece e não é atacada por insetos. Até cerca de 1850 foram extraídas grandes quantidades de madeira. Atualmente, devido a escassez e proteção, seu uso é restrito à confecção de arco de violino.
