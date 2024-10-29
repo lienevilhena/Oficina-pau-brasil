@@ -37,7 +37,6 @@ Ocorria na região litorânea do Rio de Janeiro ao Rio Grande do Norte, era conh
 
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Oraboutan_Thevet_1557_117r.png/162px-Oraboutan_Thevet_1557_117r.png' class='noresize'>
-
 Por André Thevet, 1557.
 
 
@@ -54,5 +53,6 @@ Nos últimos 500 anos a madeira era muito valorizada e utilizada em tinturarias 
 
 
 #### Considerações
+
 
 Devido às ações antrópicas, como a intensa destruição da floresta e exploração predatória, o pau-brasil encontra-se em extinção. Daí a necessidade de conservação das variadas formas de vida. Conhecer, compreender a história econômica e política da espécie possibilita a educação com novas possibilidades para repensar ações transformadoras e relações humanas para com o meio ambiente.
