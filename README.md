@@ -36,8 +36,7 @@ Espécie: _Paubrasilia echinata_
 Ocorria na região litorânea do Rio de Janeiro ao Rio Grande do Norte, era conhecida pelos indígenas por “ibirapitanga”, pela coloração vermelha dentro do seu tronco.
 
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Oraboutan_Thevet_1557_117r.png/162px-Oraboutan_Thevet_1557_117r.png' class='noresize'>
-Por André Thevet, 1557.
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Oraboutan_Thevet_1557_117r.png/162px-Oraboutan_Thevet_1557_117r.png' class='noresize'> Por André Thevet, 1557.
 
 
 Com a chegada dos portugueses o pau-brasil foi o primeiro recurso explorado, em 1511 ocorreu a primeira exportação, foram 5 mil toras de madeira levadas da Bahia para Lisboa, na nau Bretoa e desde a colonização do Brasil o pau-brasil foi explorado com vários fins e ganhou importância na comercialização. Em 1581, foi o ápice da ambição pela espécie, 45 navios partem de Pernambuco carregados de madeira.
@@ -56,3 +55,13 @@ Nos últimos 500 anos a madeira era muito valorizada e utilizada em tinturarias 
 
 
 Devido às ações antrópicas, como a intensa destruição da floresta e exploração predatória, o pau-brasil encontra-se em extinção. Daí a necessidade de conservação das variadas formas de vida. Conhecer, compreender a história econômica e política da espécie possibilita a educação com novas possibilidades para repensar ações transformadoras e relações humanas para com o meio ambiente.
+
+
+---
+
+
+##### Referências
+
+Gagnon, Edeline et.al. Paubrasilia echinata _In:_**Plant Humanities Lab**, 2016. Disponível em: https://search.plant-humanities.org/entity/Q42675898?tab=data Acesso em: 22 out 2024.
+
+MARQUES, Eliane Oliveira; BORGES, Daniela Cristina Silva. A IMPORTÂNCIA DA EDUCAÇÃO AMBIENTAL NA PRESERVAÇÃO DO PAU-BRASIL - Paubrasilia echinata. **Scientia Generalis**, [S. l.], v. 1, n. 1, p. 60–70, 2020. Disponível em: https://www.scientiageneralis.com.br/index.php/SG/article/view/v1n1a6. Acesso em: 29 out. 2024.
