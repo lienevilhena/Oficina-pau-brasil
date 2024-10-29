@@ -62,6 +62,8 @@ Devido às ações antrópicas, como a intensa destruição da floresta e explor
 
 ##### Referências
 
+
 Gagnon, Edeline et.al. Paubrasilia echinata _In:_**Plant Humanities Lab**, 2016. Disponível em: https://search.plant-humanities.org/entity/Q42675898?tab=data Acesso em: 22 out 2024.
 
 MARQUES, Eliane Oliveira; BORGES, Daniela Cristina Silva. A IMPORTÂNCIA DA EDUCAÇÃO AMBIENTAL NA PRESERVAÇÃO DO PAU-BRASIL - Paubrasilia echinata. **Scientia Generalis**, [S. l.], v. 1, n. 1, p. 60–70, 2020. Disponível em: https://www.scientiageneralis.com.br/index.php/SG/article/view/v1n1a6. Acesso em: 29 out. 2024.
+
