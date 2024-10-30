@@ -60,8 +60,13 @@ Devido às ações antrópicas, como a intensa destruição da floresta e explor
 ---
 
 
-##### Referências
+##### Fim
 
+Contato: liene@ufpa.br
+Obrigada!
+
+
+**Referências**
 
 Gagnon, Edeline et.al. Paubrasilia echinata _In:_**Plant Humanities Lab**, 2016. Disponível em: https://search.plant-humanities.org/entity/Q42675898?tab=data Acesso em: 22 out 2024.
 
