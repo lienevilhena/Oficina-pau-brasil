@@ -67,3 +67,6 @@ Gagnon, Edeline et.al. Paubrasilia echinata _In:_**Plant Humanities Lab**, 2016.
 
 MARQUES, Eliane Oliveira; BORGES, Daniela Cristina Silva. A IMPORTÂNCIA DA EDUCAÇÃO AMBIENTAL NA PRESERVAÇÃO DO PAU-BRASIL - Paubrasilia echinata. **Scientia Generalis**, [S. l.], v. 1, n. 1, p. 60–70, 2020. Disponível em: https://www.scientiageneralis.com.br/index.php/SG/article/view/v1n1a6. Acesso em: 29 out. 2024.
 
+
+---
+
