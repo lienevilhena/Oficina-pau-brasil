@@ -21,10 +21,15 @@ Dentre as espécies da coleção arbórea está o _Paubrasilia echinata_, conhec
 
 
 Reino: Plantae
+
 Classe: Magnolipsida
+
 Ordem: Faboles
+
 Família: Caesalpiniaceae
+
 Gênero: Paubrasilia
+
 Espécie: _Paubrasilia echinata_
 
 
