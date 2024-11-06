@@ -31,7 +31,7 @@ Espécie: _Paubrasilia echinata_
 ---
 
 
-### Histórico do Pau-brasil
+## Histórico do Pau-brasil
 
 Ocorria na região litorânea do Rio de Janeiro ao Rio Grande do Norte, era conhecida pelos indígenas por “ibirapitanga”, pela coloração vermelha dentro do seu tronco.
 
@@ -51,7 +51,7 @@ Nos últimos 500 anos a madeira era muito valorizada e utilizada em tinturarias 
 ---
 
 
-#### Considerações
+## Considerações
 
 
 Devido às ações antrópicas, como a intensa destruição da floresta e exploração predatória, o pau-brasil encontra-se em extinção. Daí a necessidade de conservação das variadas formas de vida. Conhecer, compreender a história econômica e política da espécie possibilita a educação com novas possibilidades para repensar ações transformadoras e relações humanas para com o meio ambiente.
@@ -60,7 +60,7 @@ Devido às ações antrópicas, como a intensa destruição da floresta e explor
 ---
 
 
-##### Fim
+## Fim
 
 
 Contato: liene@ufpa.br
